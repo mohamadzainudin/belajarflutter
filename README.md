@@ -1,6 +1,7 @@
 # login_page_example
 
-A new Flutter project.
+Halaman login page flutter mengikuti tutorial : 
+https://youtu.be/HWb6v8VcNnQ
 
 ## Getting Started
 
